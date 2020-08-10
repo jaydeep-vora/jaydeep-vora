@@ -47,9 +47,9 @@
 - [RxSwift — Pass data using Publish Subject](https://medium.com/@jaydeepvora/pass-data-using-publish-subject-rxswift-386dae1b807e)
 <!-- BLOG-POST-LIST:END -->
 
-<!-- --- -->
+---
 
-<!-- <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" /> -->
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jaydeep-vora&show_icons=true&hide_border=true" />
 
 [stackoverflow]: https://stackoverflow.com/users/5991255/jaydeep
 [linkedin]: https://www.linkedin.com/in/jaydeep-vora/
