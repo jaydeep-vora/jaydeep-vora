@@ -49,7 +49,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jaydeep-vora&show_icons=true&hide_border=true&theme=radical" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jaydeep-vora&show_icons=true&hide_border=true" />
 
 [stackoverflow]: https://stackoverflow.com/users/5991255/jaydeep
 [linkedin]: https://www.linkedin.com/in/jaydeep-vora/
