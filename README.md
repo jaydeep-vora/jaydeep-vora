@@ -1,4 +1,4 @@
-### Hi there, I'm Jaydeep Vora 👋
+### Hi there, I'm Jaydeep Vora <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 ## I'm a Mobile Developer, Blog Writter and a Family Man!
 - 🔭 I’m Mobile Application Developer.
@@ -54,3 +54,4 @@
 [stackoverflow]: https://stackoverflow.com/users/5991255/jaydeep
 [linkedin]: https://www.linkedin.com/in/jaydeep-vora/
 [medium]: https://medium.com/@jaydeepvora
+[handAnim]: https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif
