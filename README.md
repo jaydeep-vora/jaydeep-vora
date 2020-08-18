@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Jaydeep Vora | Stack Overflow" width="22px" src="https://cdn.sstatic.net/Sites/stackoverflow/company/Img/logos/so/so-icon.png?v=c78bd457575a" />][stackoverflow]
+[<img align="left" alt="Jaydeep Vora | Stack Overflow" width="30px" src="https://cdn.sstatic.net/Sites/stackoverflow/company/Img/logos/so/so-icon.png?v=c78bd457575a" />][stackoverflow]
 [<img align="left" alt="Jaydeep Vora | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Jaydeep Vora | Medium " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
