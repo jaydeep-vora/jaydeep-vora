@@ -19,7 +19,7 @@
 [<img align="left" alt="iOS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" />][linkedin]
 [<img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />][linkedin]
 [<img align="left" alt="Flutter" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" />][linkedin]
-[<img align="left" alt="Dart" width="26px" src="https://p.kindpng.com/picc/s/176-1766682_dart-programming-language-hd-png-download.png" />][linkedin]
+[<img align="left" alt="Dart" width="26px" src="https://cloud.githubusercontent.com/assets/1050148/11442042/0b297e0a-9512-11e5-9aef-7a3d46b835b2.jpg" />][linkedin]
 [<img align="left" alt="Xcode" width="26px" src="https://developer.apple.com/library/archive/documentation/ToolsLanguages/Conceptual/Xcode_Overview/Art/XcodeIcon_2x.png" />][linkedin]
 [<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][linkedin]
 [<img align="left" alt="Realm" width="26px" src="https://i1.wp.com/agostini.tech/wp-content/uploads/2018/03/realm_logo.png?fit=300%2C299&ssl=1" />][linkedin]
@@ -41,7 +41,8 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [SkeletonView animation in UITableView]()
+- [Configurable iOS 14 Widget using WidgetKit](https://medium.com/@jaydeepvora/configurable-ios-14-widget-using-widgetkit-19e1075c0093)
+- [SkeletonView animation in UITableView](https://medium.com/flawless-app-stories/skeletonview-animation-ade973655d03)
 - [Become Full Stack Mobile developer (Vapor + Flutter)](https://medium.com/flawless-app-stories/skeletonview-animation-ade973655d03)
 - [Build fast and better Apps with SwiftUI](https://medium.com/flawless-app-stories/build-fast-and-better-apps-with-swiftui-dd33ca13e9c7)
 - [RxSwift — Pass data using Publish Subject](https://medium.com/@jaydeepvora/pass-data-using-publish-subject-rxswift-386dae1b807e)
