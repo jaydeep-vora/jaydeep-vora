@@ -3,7 +3,7 @@
 ## I'm a Mobile Application Developer, Blog Writter and a Family Man!
 - 🔭 I’m Mobile Application Developer.
 - 🌟 Working on iOS, Android, Flutter
-- 🌱 I’m currently learning Future Demands 🤣
+- 🌱 Currently learning Future Demands 🤣
 - 👯 I’m looking to collaborate with other Mobile App develoers
 
 ### Connect with me:
